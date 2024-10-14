@@ -1,0 +1,135 @@
+*{
+  margin: 0px;  
+  padding: 0px ;
+}
+.parent{
+    height: 100px;
+    padding: 50px;
+   display: flex;
+   justify-content: space-around; 
+   align-items: center;
+}
+#hij{
+    height: 100px;
+    color: beige;
+}
+li{
+    list-style: none;
+    font-weight: 800;
+    font-size: 20px;
+    color: palevioletred;
+}
+#abc{
+        color: palevioletred;
+        margin: 0px;
+        padding: 10px;
+        border: 20px solid rgb(246, 243, 243);
+        height: 200px;
+}
+#folio{
+    height: 240px;
+    background-color: beige;
+}
+.second{
+    height: 100px;
+    padding: 50px;
+}
+#def
+{
+    color:palevioletred;
+    margin: 0px;
+    padding: 50px;
+    border: 20px solid rgb(247, 247, 247);
+    height: 250px;  
+    align-items: center;
+}
+#hij{
+    height: 360px;
+    background-color: rgb(244, 241, 241);
+}
+.third{
+    height: 100px;
+    padding: 50px;
+}
+#klm{
+    height: 500px;
+    background-color: beige;
+}
+#pqr{
+    color:palevioletred;
+    margin: 0px;
+    padding: 40px;
+    border: 20px solid rgb(241, 239, 239);
+    height: 400px;
+
+}
+.fourth{
+    height: 100px;
+    padding: 50px;
+}
+#lmn{
+    height: 500px;
+    background-color: beige;
+}
+#xyz{
+    color:palevioletred;
+    margin: 0px;
+    padding: 40px;
+    border: 20px solid rgb(244, 244, 244);
+    height: 400px;
+}
+.fifth{
+    height: 100px;
+    padding: 50px;
+}
+#hiv{
+    height: 300px;
+    background-color: rgb(252, 252, 252);
+}
+#jnm{
+    color:palevioletred;
+    margin: 0px;
+    padding: 40px;
+    border: 20px solid rgb(248, 248, 248);
+    height: 200px; 
+}
+.sixth{
+    height: 100px;
+    padding: 50px;
+}
+#khj{
+    height: 350px;
+    background-color: rgb(242, 245, 245);
+}
+#gkl{
+    color:palevioletred;
+    margin: 0px;
+    padding: 40px;
+    border: 20px solid rgb(245, 243, 243);
+    height: 400px;
+}
+.ab{
+    color:palevioletred;
+}
+.html{
+    border-style: solid;
+    border-color: bisque;
+    width:50%;
+    border-radius: 10%;
+}
+.col1{
+    background-color:burlywood;
+    width:60%;
+}
+.col2{
+    background-color: burlywood;
+    width:40%;
+}
+.col3{
+    background-color: burlywood;
+    width:30%;
+}
+.col4{
+    background-color: burlywood;
+    width:20%;
+}
