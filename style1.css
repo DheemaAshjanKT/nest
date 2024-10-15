@@ -29,6 +29,7 @@ li{
 #folio{
     height: 240px;
     background-color: beige;
+  border-radius: 10px;
 }
 .second{
     height: 100px;
